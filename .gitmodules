@@ -1,0 +1,3 @@
+[submodule "web-server"]
+	path = web-server
+	url = https://github.com/avin83/node-course-2-web-server.git
